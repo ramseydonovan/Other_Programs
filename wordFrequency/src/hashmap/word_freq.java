@@ -18,7 +18,7 @@ class word_freq {
 static HashMap<String, Integer> map = new HashMap(); 
 //static List<MostWords> findTop60 = new ArrayList(); 
 public static void main(String[] args) throws IOException {
-	findSum("/Users/donovanramsey/Desktop/secText/MobyDick.txt"); //  MobyDick.txt");
+	findSum("/MobyDick.txt"); 
  
 }
 //________________________________________________________________ added code 
