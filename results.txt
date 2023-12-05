@@ -1,0 +1,92 @@
+------------------------------------------------
+Gender?
+Male: 12 (52%)
+Female: 11 (47%)
+------------------------------------------------
+Select your age:
+18 - 29: 9 (39%)
+30 - 39: 9 (39%)
+50 - 64: 4 (17%)
+40 - 49: 1 (4%)
+------------------------------------------------
+Do you use a fitness app?
+yes: 19 (82%)
+no: 4 (17%)
+------------------------------------------------
+What fitness app(s) do you use?
+other: 5 (21%)
+MyFitnessPal: 4 (17%)
+None: 4 (17%)
+Apple Fitness: 3 (13%)
+Apple Fitness;other: 2 (8%)
+MyFitnessPal;FitOn: 1 (4%)
+Nike Training Club: 1 (4%)
+Apple Fitness;Nike Training Club;Strava: 1 (4%)
+Strava;other: 1 (4%)
+Strava: 1 (4%)
+------------------------------------------------
+If Other, please specify
+Yoga Apps: 1 (4%)
+Peloton: 1 (4%)
+Tempo and peloton (apple everyday, others occasionally) : 1 (4%)
+Samsung health care: 1 (4%)
+Samsung health: 1 (4%)
+IFit: 1 (4%)
+Keep: 1 (4%)
+FitBit: 1 (4%)
+LG Health, came with my phone and i mainly use it to track steps: 1 (4%)
+Healthify me: 1 (4%)
+------------------------------------------------
+How long have you been using this app?
+Less than 1 year: 9 (39%)
+more than 4 years: 7 (30%)
+1-2 years: 4 (17%)
+2-4 years: 3 (13%)
+------------------------------------------------
+How frequently you use the app?
+a few times a week: 6 (26%)
+A few times a month: 5 (21%)
+Less than once a month: 3 (13%)
+everyday: 3 (13%)
+Never: 3 (13%)
+once a week: 2 (8%)
+more than once per day: 1 (4%)
+------------------------------------------------
+Do you workout with your phone on your person?
+Sometimes: 8 (34%)
+Never: 8 (34%)
+Always: 7 (30%)
+------------------------------------------------
+Where do you exercise most?
+Gym: 10 (43%)
+Home: 7 (30%)
+Outdoors: 6 (26%)
+------------------------------------------------
+How often do you consider that you are using proper technique when exercising?
+Frequently: 9 (39%)
+Every exercise: 7 (30%)
+Sometimes: 4 (17%)
+Never: 3 (13%)
+------------------------------------------------
+Have you ever experienced an exercise related injury?
+Yes: 15 (65%)
+No: 8 (34%)
+------------------------------------------------
+How interested would you be in a feature that provides real-time feedback on your posture during workouts using video analysis?
+Interested: 9 (39%)
+Very interested: 5 (21%)
+Neutral: 4 (17%)
+Not Interested: 3 (13%)
+Somewhat interested: 2 (8%)
+------------------------------------------------
+If not interested any particular reason why? (Optional)
+Over integration of technology : 1 (4%)
+I don't think it would be accurate: 1 (4%)
+------------------------------------------------
+If interested any particular reason? (Optional)
+Just to know that your form is correct to prevent injuries and get the most out of your workout : 1 (4%)
+So I can improve my health : 1 (4%)
+Always good to see if form stays consistent throughout reps: 1 (4%)
+Most of my activity does not relate to this type of tracking. Running, cycling, swimming. Collect data via wearable tech: 1 (4%)
+I have that on the Tempo app and it’s nice to be corrected so that I and working out efficiently and effectively. : 1 (4%)
+just to make sure I am doing it properly to get the maximum benefits: 1 (4%)
